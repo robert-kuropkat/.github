@@ -1,7 +1,7 @@
 ---
 name: 'Analysis: Porter''s Five Forces - 05. Threat of Substitutes'
 about: Threat of Substitutes part of Porter's Five Forces
-title: 05. Threat of Substitutes
+title: Threat of Substitutes
 labels: ''
 assignees: ''
 

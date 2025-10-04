@@ -1,7 +1,7 @@
 ---
 name: 'Analysis: Porter''s Five Forces - 03. Bargaining Power of Buyers'
 about: Bargaining Power of Buyers part of Porter's Five Forces
-title: 03. Bargaining Power of Buyers
+title: Bargaining Power of Buyers
 labels: Requirement
 assignees: ''
 

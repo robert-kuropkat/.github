@@ -1,7 +1,7 @@
 ---
 name: 'Analysis: Porter''s Five Forces - 02. Threat of New Entrants'
 about: Threat of New Entrants part of Porter's Five Forces
-title: 02. Threat of New Entrants
+title: Threat of New Entrants
 labels: Requirement
 assignees: ''
 
