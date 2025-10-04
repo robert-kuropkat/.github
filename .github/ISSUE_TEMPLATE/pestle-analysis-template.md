@@ -1,7 +1,7 @@
 ---
 name: PESTLE Analysis template
 about: Political, Economic, Social, Technological, Legal, and Environmental Analysis
-title: ''
+title: PESTLE Analysis
 labels: Requirement
 assignees: ''
 
