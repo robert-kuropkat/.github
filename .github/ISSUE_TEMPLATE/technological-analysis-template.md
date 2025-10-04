@@ -1,0 +1,13 @@
+---
+name: Technological Analysis template
+about: Technological part of PESTEL Analysis
+title: T - Technological Analysis
+labels: Requirement
+assignees: ''
+
+---
+
+# T - Technological
+
+- ..
+- ..
