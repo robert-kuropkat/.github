@@ -1,5 +1,5 @@
 ---
-name: 'Analysis: Porter''s Five Forces'
+name: 'Analysis: Porter''s Five Forces - (top)'
 about: Product analysis using the Porter's Five Forces model
 title: Porter's Five Forces
 labels: ''
