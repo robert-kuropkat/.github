@@ -1,7 +1,7 @@
 ---
 name: Porter's Secondary Value Activity
 about: Individual Porter's Value Chain Activity (secondary)
-title: Secondary Acivity
+title: Secondary Activity
 labels: Requirement
 assignees: ''
 
