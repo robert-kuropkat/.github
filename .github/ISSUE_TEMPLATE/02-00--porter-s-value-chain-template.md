@@ -1,5 +1,5 @@
 ---
-name: Porter's Value Chain template
+name: 02.00. Porter's Value Chain template
 about: Top level Porter's Value Chain Analysis
 title: Porter's Value Chain Analysis
 labels: Requirement
