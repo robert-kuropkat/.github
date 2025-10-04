@@ -1,5 +1,5 @@
 ---
-name: 'Analysis: Porter''s Value Chain - (top)'
+name: 'Analysis: Porter''s Value Chain - (parent)'
 about: Top level Porter's Value Chain Analysis
 title: Porter's Value Chain Analysis
 labels: Requirement
