@@ -1,5 +1,5 @@
 ---
-name: 'Analysis: PESTLE Analysis'
+name: 'Analysis: PESTLE Analysis__'
 about: Political, Economic, Social, Technological, Legal, and Environmental Analysis
 title: PESTLE Analysis
 labels: Requirement
