@@ -2,7 +2,7 @@
 name: Porter's Five Forces template
 about: Product analysis using the Porter's Five Forces model
 title: Porter's Five Forces
-labels: Requirement
+labels: ''
 assignees: ''
 
 ---
