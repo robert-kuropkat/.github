@@ -1,5 +1,5 @@
 ---
-name: 01.02.02. Porter's Secondary Value Activity
+name: 'Analysis: Porter''s Value Chain - Secondary Activity'
 about: Individual Porter's Value Chain Activity (secondary)
 title: Secondary Activity
 labels: Requirement

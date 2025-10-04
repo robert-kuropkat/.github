@@ -1,5 +1,5 @@
 ---
-name: 01.03.00. PESTLE Analysis template
+name: 'Analysis: PESTLE Analysis'
 about: Political, Economic, Social, Technological, Legal, and Environmental Analysis
 title: PESTLE Analysis
 labels: Requirement

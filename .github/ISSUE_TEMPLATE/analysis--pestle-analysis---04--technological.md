@@ -1,5 +1,5 @@
 ---
-name: 01.03.04. Technological Analysis template
+name: 'Analysis: PESTLE Analysis - 04. Technological'
 about: Technological part of PESTEL Analysis
 title: T - Technological Analysis
 labels: Requirement

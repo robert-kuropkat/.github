@@ -1,5 +1,5 @@
 ---
-name: 00.00. Mission Statement template
+name: __ Mission Statement
 about: Goal, Timeline and Cost of the current effort
 title: ''
 labels: ''
