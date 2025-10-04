@@ -1,5 +1,5 @@
 ---
-name: 01.00. Porter's Five Forces template
+name: 01.01.00 Porter's Five Forces template
 about: Product analysis using the Porter's Five Forces model
 title: Porter's Five Forces
 labels: ''

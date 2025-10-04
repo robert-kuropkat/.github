@@ -1,5 +1,5 @@
 ---
-name: 03.05. Legal Analysis template
+name: 01.03.05. Legal Analysis template
 about: Legal part of PESTEL Analysis
 title: L - Legal Analysis
 labels: Requirement
