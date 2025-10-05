@@ -2,7 +2,7 @@
 name: 'Analysis: PESTLE Analysis - (parent)'
 about: Political, Economic, Social, Technological, Legal, and Environmental Analysis
 title: PESTLE Analysis
-labels: Requirement
+labels: _Analysis
 assignees: ''
 
 ---

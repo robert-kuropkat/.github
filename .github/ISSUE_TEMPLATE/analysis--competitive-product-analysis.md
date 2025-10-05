@@ -2,7 +2,7 @@
 name: 'Analysis: Competitive Product Analysis'
 about: Competitive Product Analysis
 title: Competitive Product Analysis
-labels: Requirement
+labels: _Analysis
 assignees: ''
 
 ---

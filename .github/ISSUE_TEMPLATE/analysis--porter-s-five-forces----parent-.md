@@ -2,7 +2,7 @@
 name: 'Analysis: Porter''s Five Forces - (parent)'
 about: Product analysis using the Porter's Five Forces model
 title: Porter's Five Forces Analysis
-labels: Requirement
+labels: _Analysis
 assignees: ''
 
 ---

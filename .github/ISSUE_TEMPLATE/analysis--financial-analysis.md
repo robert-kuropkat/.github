@@ -2,7 +2,7 @@
 name: 'Analysis: Financial Analysis'
 about: Financial Analysis
 title: Financial Analysis
-labels: Requirement
+labels: _Analysis
 assignees: ''
 
 ---

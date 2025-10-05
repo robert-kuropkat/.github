@@ -2,7 +2,7 @@
 name: 'Analysis: Porter''s Five Forces - 04. Bargaining Power of Suppliers'
 about: Bargaining Power of Suppliers part of Porter's Five Forces
 title: Bargaining Power of Suppliers
-labels: Requirement
+labels: _Analysis
 assignees: ''
 
 ---

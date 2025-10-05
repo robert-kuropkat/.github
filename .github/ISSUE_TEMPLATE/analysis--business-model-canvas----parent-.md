@@ -2,7 +2,7 @@
 name: 'Analysis: Business Model Canvas - (parent)'
 about: Business Model Canvas Analysis
 title: Business Model Canvas Analysis
-labels: Requirement
+labels: _Analysis
 assignees: ''
 
 ---

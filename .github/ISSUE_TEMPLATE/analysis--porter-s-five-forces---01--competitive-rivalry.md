@@ -2,7 +2,7 @@
 name: 'Analysis: Porter''s Five Forces - 01. Competitive Rivalry'
 about: Competitive Rivalry part of Porter's Five Forces
 title: Competitive Rivalry
-labels: Requirement
+labels: _Analysis
 assignees: ''
 
 ---
