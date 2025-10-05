@@ -13,9 +13,9 @@ The purpose of product pricing and availability analysis is to ensure that busin
 
 # Analysis Breakdown
 
-- Target Market
-- Pricing Strategy Options
-- Availability Strategy
+- **Target Market:**
+- **Pricing Strategy Options:**
+- **Availability Strategy:**
 
 # Strategic Takeaways
 
