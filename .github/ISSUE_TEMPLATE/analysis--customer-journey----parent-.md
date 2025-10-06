@@ -21,8 +21,8 @@ Steps to Conduct a Journey Analysis for Dog Dancer
 - **Identify Touchpoints:**\
 - **Collect Data at Each Stage:**\
 - **Analyze Gaps and Friction Points:**\
-- **Visualize the Journey**\
-- **Take Action**\
+- **Visualize the Journey:**\
+- **Take Action:**\
 
 # Strategic Takeaways
 
