@@ -9,6 +9,12 @@ assignees: ''
 
 # Primary Goal
 
+## User Story
+
+_As a player, I'd like to ..._
+
+## Formalized re-write
+
 | SMART | WHWWW | Description _(replace the italicized text below)_ |
 | -- | -- | -- |
 | Specific   | What | _Design intent, or what are we trying to accomplish.  Think micro Vision Statement..._ |
@@ -21,7 +27,11 @@ assignees: ''
 
 ## Primary
 
-  1. ...
+  **Requirement:** _The system shall..._
+
+  **Rationale:** _should support the user story.  May have multiple reasons listed_
+
+  **Inspiration:** _provide an example from another game or any other source to provide additional source material_
 
 ## Secondary
 
@@ -37,3 +47,26 @@ assignees: ''
 
   1. ...
   2. ...
+
+# Designer Notes
+
+  * ...
+  * ...
+
+# Technical Notes
+
+  * ...
+  * ...
+
+# Quality Check
+
+- [ ] Complete
+- [ ] Correct
+- [ ] Concise
+- [ ] Feasible
+- [ ] Necessary
+- [ ] Prioritized
+- [ ] Unambiguous
+- [ ] Verifiable
+- [ ] Consistent
+- [ ] Traceable
