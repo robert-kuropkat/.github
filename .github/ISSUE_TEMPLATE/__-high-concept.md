@@ -9,15 +9,18 @@ assignees: ''
 
 # High Concept
 
-__One or two sentences forming the basic "elevator pitch."__
+_One or two sentences forming the basic "elevator pitch."_
+
+*Genre:* _genre list here_\
+*Target Platform:* _platform list here_
 
 # Premise and Story Synopsis
 
-__Paragraph putting the player into context__
+_Paragraph putting the player into context_
 
 # Unique Selling Points (USPs)
 
-__approximately three bullet points as they might appear on the back of the box___
+_approximately three bullet points as they might appear on the back of the box_
 
 * ...
 * ...
@@ -25,7 +28,7 @@ __approximately three bullet points as they might appear on the back of the box_
 
 # Features
 
-__bullet points of Player/Game interaction__
+_bullet points of Player/Game interaction_
 
 * ...
 * ...
@@ -33,7 +36,7 @@ __bullet points of Player/Game interaction__
 
 # Competitive Analysis
 
-__List of Comparable Games___
+_List of Comparable Games_
 
 * ...
 * ...

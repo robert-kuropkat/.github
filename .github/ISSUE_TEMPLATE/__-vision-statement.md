@@ -7,16 +7,16 @@ assignees: ''
 
 ---
 
-__This is highly flexible document with no standard form.  In general, it should include some sort of statements aligning with Intent, Timeline and Purpose.  These should then naturally support follow-on market and product analysis as well as easily transform into the driving Mission Statement.__
+_This is highly flexible document with no standard form.  In general, it should include some sort of statements aligning with Intent, Timeline and Purpose.  These should then naturally support follow-on market and product analysis as well as easily transform into the driving Mission Statement.__
 
 # Intent
 
-__Short statement that will align with the mission goal.  This can and should include secondary goals, that are not directly related to the game itself if there are any__
+_Short statement that will align with the mission goal.  This can and should include secondary goals, that are not directly related to the game itself if there are any_
 
 # Timeline
 
-__Can be stated in indeterminant boundaries such as phases, milestones, etc.__
+_Can be stated in indeterminant boundaries such as phases, milestones, etc._
 
 # Purpose
 
-__Short supporting reason for why these goals and timelines are being chosen.  This has no directly descending documents.  Instead, it is used as an additional guide star when later determining features, tasks, etc.__
+_Short supporting reason for why these goals and timelines are being chosen.  This has no directly descending documents.  Instead, it is used as an additional guide star when later determining features, tasks, etc._
