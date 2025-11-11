@@ -1,5 +1,5 @@
 ---
-name: __High Concept
+name: __ High Concept
 about: High Concept Document
 title: ''
 labels: _High Concept

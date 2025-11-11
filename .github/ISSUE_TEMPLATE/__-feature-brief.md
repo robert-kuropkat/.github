@@ -1,6 +1,6 @@
 ---
-name: __ GameEARS Requirement
-about: Feature Requirements Document
+name: __ Feature Brief
+about: Feature Requirements Document using GameEARS Requirement
 title: "[REQ] "
 labels: _Analysis, _Requirement
 assignees: ''
