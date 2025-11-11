@@ -2,7 +2,7 @@
 name: __ GameEARS Requirement
 about: Feature Requirements Document
 title: "[REQ] "
-labels: _Requirement
+labels: _Analysis, _Requirement
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: __Vision Statement
 about: High Concept Document
 title: ''
-labels: ''
+labels: _Vision Statement
 assignees: ''
 
 ---
