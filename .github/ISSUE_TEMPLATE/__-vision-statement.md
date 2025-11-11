@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-_This is highly flexible document with no standard form.  In general, it should include some sort of statements aligning with Intent, Timeline and Purpose.  These should then naturally support follow-on market and product analysis as well as easily transform into the driving Mission Statement.__
+_This is highly flexible document with no standard form.  In general, it should include some sort of statements aligning with Intent, Timeline and Purpose.  These should then naturally support follow-on market and product analysis as well as easily transform into the driving Mission Statement._
 
 # Intent
 

@@ -11,8 +11,8 @@ assignees: ''
 
 _One or two sentences forming the basic "elevator pitch."_
 
-*Genre:* _genre list here_\
-*Target Platform:* _platform list here_
+**Genre:** _genre list here_\
+**Target Platform:** _platform list here_
 
 # Premise and Story Synopsis
 
