@@ -1,8 +1,8 @@
 ---
-name: __Vision Statement
+name: __High Concept
 about: High Concept Document
 title: ''
-labels: _Vision Statement
+labels: _High Concept
 assignees: ''
 
 ---
