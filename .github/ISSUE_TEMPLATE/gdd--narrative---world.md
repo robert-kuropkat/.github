@@ -15,4 +15,8 @@ assignees: ''
 
 # Characters
 
+# Obstacles
+
+# Locations
+
 # Dialog Systems
