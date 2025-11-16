@@ -1,8 +1,8 @@
 ---
-name: __ Feature Brief
+name: 'GDD: Feature Brief'
 about: Feature Requirements Document using GameEARS Requirement
-title: "[REQ] "
-labels: _Analysis, _Requirement
+title: "[GDD] "
+labels: _Game Design, _Requirement
 assignees: ''
 
 ---
