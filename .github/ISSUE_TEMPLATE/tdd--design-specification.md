@@ -20,3 +20,6 @@ _example specifications includes:_
 * _Process Flows_
 * _System Diagrams_
 * _Feature -> System -> Mechanic mappings_
+* _Platform Specific Needs_
+* _Performance & Optimization_
+* _Networking_
