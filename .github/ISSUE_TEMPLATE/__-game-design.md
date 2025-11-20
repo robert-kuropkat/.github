@@ -2,7 +2,7 @@
 name: __ Game Design
 about: Top Level Game Design Document
 title: Game Design Document
-labels: _Game Design
+labels: "-Top Level Document, _Game Design"
 assignees: ''
 
 ---

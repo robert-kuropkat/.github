@@ -2,7 +2,7 @@
 name: __ Technical Design
 about: Top Level Technical Design Document
 title: "[TDD] Technical Design"
-labels: _Technical Design
+labels: "-Top Level Document, _Technical Design"
 assignees: ''
 
 ---

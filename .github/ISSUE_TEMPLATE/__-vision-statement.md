@@ -2,7 +2,7 @@
 name: __ Vision Statement
 about: Top Level Project Vision
 title: Vision Statement
-labels: _Vision Statement
+labels: "-Top Level Document, _Vision Statement"
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: __ Marketing Plan
 about: Marketing Tasks
 title: Marketing Plan
-labels: _Marketing Plan
+labels: "-Top Level Document, _Marketing Plan"
 assignees: ''
 
 ---

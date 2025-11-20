@@ -2,7 +2,7 @@
 name: __ High Concept
 about: High Concept Document
 title: ''
-labels: _High Concept
+labels: "-Top Level Document, _High Concept"
 assignees: ''
 
 ---

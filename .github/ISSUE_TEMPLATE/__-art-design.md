@@ -2,7 +2,7 @@
 name: __ Art Design
 about: Art Design Document
 title: "[ADD] Art Design Document"
-labels: _Art Design
+labels: "-Top Level Document, _Art Design"
 assignees: ''
 
 ---
