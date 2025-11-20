@@ -1,7 +1,7 @@
 ---
 name: 'GDD: Game Pillar'
 about: Core Game Pillars
-title: "[GDD] Game Pillar"
+title: "[GDD] Game Pillar: "
 labels: _Game Design
 assignees: ''
 

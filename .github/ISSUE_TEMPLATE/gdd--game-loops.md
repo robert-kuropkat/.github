@@ -1,7 +1,7 @@
 ---
 name: 'GDD: Game Loops'
 about: Define each of the various game loops from the player perspective
-title: 'GDD: Game Loops'
+title: "[GDD] Game Loop: "
 labels: _Game Design
 assignees: ''
 
