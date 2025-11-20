@@ -7,6 +7,15 @@ assignees: ''
 
 ---
 
+# Overview
+
+**Type:**\
+**Summary:** 
+
+# Details
+
+---
+
 # Core Loop
 
 _The Core Game Loop is the moment-to-moment cycle of actions the player repeats continuously during active gameplay. This is what players do every few seconds._
