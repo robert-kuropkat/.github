@@ -3,7 +3,7 @@ name: 'GDD: Characters & Character Design'
 about: Define the characters from the perspective of gameplay, narrative, player experience,
   and game systems.
 title: 'GDD: Characters & Character Design'
-labels: _Game Design
+labels: _Game Design, _Technical Design
 assignees: ''
 type: Feature
 
@@ -26,6 +26,8 @@ Master inventory of all characters, including IDs, names, roles, brief descripti
 ## Character Roles & Archetypes
 
 Defines recurring character categories and their gameplay or narrative functions. An archetype describes a recognizable character pattern, while a role describes what the character does in the game.
+
+_ Note: Character Type defines a character's fundamental classification within the game's structure, generally describing how the character is controlled or implemented. Examples include Player Character, Non-Player Character (NPC), Enemy, and Background Character. Character Role describes the specific function or purpose the character serves in gameplay or the narrative, such as Protagonist, Dance Leader, Instructor, Rival, or Comic Relief. Character Archetype describes the character's recognizable personality pattern, behavioral tendencies, or narrative identity, such as the Lovable Underdog, Wise Mentor, Trickster, or Reluctant Hero. In short, Type defines what the character is within the game, Role defines what the character does, and Archetype defines the kind of character they represent. A character can have multiple roles or archetypal traits, but should generally have one primary type. _
 
 ## Character Gameplay Mechanics
 
