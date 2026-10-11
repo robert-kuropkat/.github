@@ -1,5 +1,5 @@
 ---
-name: ___ Production Task
+name: _ Production Task
 about: Any task producing concrete artifacts or activities
 title: "[TASK] "
 labels: ''
