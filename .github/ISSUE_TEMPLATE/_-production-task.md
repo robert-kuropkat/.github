@@ -2,7 +2,7 @@
 name: _ Production Task
 about: Any task producing concrete artifacts or activities
 title: "[TASK] "
-labels: ''
+labels: _Technical Design
 assignees: ''
 type: Task
 
